@@ -1,4 +1,4 @@
 <?php 
-  echo "Git message";
+  echo "Git message!";
 
 ?>
